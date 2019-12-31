@@ -29,6 +29,8 @@ Html basics
 
 	<hr>
 
+//example //
+
 	<p><h2>Text Tags Part 1</h2></p>
 
 	<p>in this video we learning about text tags such as texting tags,paragraph tags,bold and italic tags.</p>
@@ -43,59 +45,59 @@ Html basics
 
 	<p>(a+b)<sup>2</sup> = a<sup>2</sup> + b<sup>2</sup> + 2ab </p>
 	
+
 // subscript tag <sub> //
 
-
-  <p>water formula is <b>H<sub>2</sub>O</b></p>
+	<p>water formula is <b>H<sub>2</sub>O</b></p>
 	
 	<hr>
   
-  //break tag in a paragraph like a address  <br> //
-  
-            // it dont need close tag //
+ //break tag in a paragraph like a address  <br> //
+             // it dont need close tag //
 
-  <p>balamurugan ,<br>
+  	
+		<p>balamurugan ,<br>
 		2<sup>nd</sup> year ,<br>
 		CSE ,<br>
 		trichy </p>
-    
-    
-	<hr>
+ 
+		<hr>
 
 	
   //strong tag <strong> it is same as the bold tag //
   
   
-  <p>Smoking is injurious to health.Smoking <strong>kills</strong>.</p>
+ 	 <p>Smoking is injurious to health.Smoking <strong>kills</strong>.</p>
 	
   
   //emphasis tag <em> it is same as the italic tag //
   
   
-  <p>India won the gold medal in <em>Olymphics</em>.</p>
+  	<p>India won the gold medal in <em>Olymphics</em>.</p>
 	
 	
-  <hr>
+  	<hr>
 
+  //paragraph //
 
 	<p>If you think mathematics and progaramming are defficult to learn , think again.</p>
 	
   // quote tag <q> //
   
   
-  <p>Here us what <em> Albert Einstein </em> says <q> Do not worry about your difficulties in mathemetics . I can assure you mine are still greater .</q></p>
+  	<p>Here us what <em> Albert Einstein </em> says <q> Do not worry about your difficulties in mathemetics . I can assure you mine are still greater .</q></p>
 	
   // blockquote tag for whole paragraph in quote <blockquote> //
   
   
-  <blockquote>
+  	<blockquote>
 	
-  <p>Never stop fighting until you arrive at your destined place - that is , the unquie you . Have an aim in life , continoiusly acquire knowledge , work hard , and  have perseverance to realise the great life ,---<strong>A.P.J.Abdul Kalam</p>
+	<p>Never stop fighting until you arrive at your destined place - that is , the unquie you . Have an aim in life , continoiusly acquire knowledge , work hard , and  have perseverance to realise the great life ,---<strong>A.P.J.Abdul Kalam</p>
 	
-  </blockquote>
+  	</blockquote>
 
 	
-  <hr>
+  	<hr>
 
   //abbrevation tag <abbr title="Doctor">Dr</abbr>  //
   
@@ -105,14 +107,14 @@ Html basics
   //acronym tag <acronym>  //
   
   
-  <acronym title="Indian Space Research Organisation">ISRO </acronym></p>
+ 	 <acronym title="Indian Space Research Organisation">ISRO </acronym></p>
 	
   example :
   
   
-  <p><h3>EXAMPLE</h3></p>
+  	<p><h3>EXAMPLE</h3></p>
 	
-  <p>It indroducesone are more e.g that illustrate something stated , such as : a sample of academic writing <abbr title="Example">e.g</abbr> , a dessertation chapter .</p>
+  	<p>It indroducesone are more e.g that illustrate something stated , such as : a sample of academic writing <abbr title="Example">e.g</abbr> , a dessertation chapter .</p>
 
 	<hr>
 	
